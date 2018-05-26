@@ -1,4 +1,4 @@
-Statement
+Statement and loop
 
 1. Conditional Statement : 
 a. Single conditional statement : It will take only boolean condition- true or false. It will first check the condition is true or false. 

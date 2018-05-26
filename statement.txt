@@ -1,0 +1,29 @@
+Statement and loop
+
+1. Conditional Statement : 
+a. Single conditional statement : It will take only boolean condition- true or false. It will first check the condition is true or false. 
+If the condition true the compiler will be executed -"if block".if the condition not found true then "else block" will be executed.
+
+b. Multiple conditional statement.It will first check the condition is true or false. If the condition is true the compiler will execute -"if block". If the condition not found true the "else if block'will be executed, if found false the next block will be executed.If none of the condition found true then "else block" will be executed.
+
+2. Switch Statement.
+*Switch always works with number. Whichever condition match the number of that block will be executed.
+*We must break each block otherwise if condition found true it will continue and execute the following blocks.
+*If none of the condition matches the default block will be exeuted.
+
+
+3.Loop Statement
+
+a. While Statement: While loop always check the condition first than execute the block. Otherhand, until condition found as false it will not stop.
+
+b. Do while Statement: Do while loop will execute do{} block first then it will check the condition.Until the condition found false the loop will continue.
+
+
+
+6.For loop Statement.
+
+
+7. Nested loop (loop inside loop).
+
+8. For each loop Statement
+

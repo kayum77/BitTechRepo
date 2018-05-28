@@ -8,6 +8,7 @@ public class Amazon {
 
 	ChromeDriver driver;
 
+	// open a blank browser
 	void openBrowser() {
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\kayum\\Downloads\\chromedriver_win32\\chromedriver.exe");
